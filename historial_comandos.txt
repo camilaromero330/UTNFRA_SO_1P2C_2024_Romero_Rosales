@@ -472,3 +472,62 @@ git status
 ls -l
 history -a
 history
+cp ~/.bash_history historial_comandos.txt
+ls -l
+cat historial_comandos.txt 
+ls -l 
+tree RTA_SCRIPT_Examen_20241011/
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+rm historial_comandos.txt 
+ls -l
+cd -
+ls -l
+cat historial_comandos.txt 
+git add .
+git commit -m "ADD: Agregado el historial al txt y eliminado el historial duplicado"
+git push
+git status
+ls -l
+cat README.md 
+vim README.md 
+cat README.md 
+git add .
+git commit -m "ADD: Modificado el README"
+git push
+git status
+ls -l
+cat README.md 
+vim README.md 
+cat << EOF > README.md
+# UTNFRA_SO_1P2C_2024_Romero_Rosales
+Nombre: Victoria Camila
+Apellido: Romero Rosales
+Legajo: 113981
+División: 313
+EOF
+
+cat README.md 
+git add .
+git commit -m "FIX: Corregido el README"
+git push
+git status
+cat << EOF > README.md
+# UTNFRA_SO_1P2C_2024_Romero_Rosales
+
+Nombre: Victoria Camila
+
+Apellido: Romero Rosales
+
+Legajo: 113981
+
+División: 313
+
+EOF
+
+cat README.md 
+git add .
+git commit -m "FIX: Corregido el archivo README"
+git push
+history -a
+ls -l
