@@ -364,3 +364,72 @@ history
 history -a
 history
 ls -l
+cp ~/.bash_history historial_comandos.txt
+cat historial_comandos.txt 
+git add .
+git commit -m "ADD: Agregado el historial de comandos"
+git push
+git status
+whoami
+logout
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+cat Punto_D.sh 
+./Punto_D.sh 
+tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s'' -w 80 --column 4
+ls -l $HOME
+tree $HOME/Estructura_Asimetrica/
+tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+tree $HOME/Estructura_Asimetrica --noreport | pr -T -s'' -w 80 --column 4
+tree Estructura_Asimetrica/ --noreport | pr -T -s'' -w 80 --column 4
+tree $HOME/Estructura_Asimetrica --noreport | pr -T -s'' -w 80 --column 4
+ls -l $HOME
+ls -l $HOME/Estrucutura_Asimetrica
+ls -l $HOME/Estrucutura_Asimetrica/
+ls -l $HOME/Estructura_Asimetrica
+tree $HOME/Estructura_Asimetrica
+cat Punto_D.sh 
+history
+git add .
+git commit -m "ADD: Agregado el Punto D"
+git push
+git status
+history -a
+cp ~/.bash_history historial_comandos.txt
+cat historial_comandos.txt 
+git add .
+git commit -m "ADD: Agregado el historial de comandos"
+git push
+git status
+logout
+ls -l
+cd repogit/
+ls -l
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l ~/repogit
+ls -l ~/repogit/
+ls -l ~/repogit/UTNFRA_SO_1P2C_2024_Romero_Rosales
+ls -l ~/repogit/UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/
+cat ~/repogit/UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/Punto_E.sh 
+./RTA_SCRIPT_Examen_20241011/Punto_E.sh 
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+./RTA_SCRIPT_Examen_20241011/Punto_E.sh 
+ls -l
+tree RTA_ARCHIVOS_Examen_20241011/
+cat RTA_ARCHIVOS_Examen_20241011/
+cat RTA_ARCHIVOS_Examen_20241011/Filtro_Basico.txt 
+cat RTA_SCRIPT_Examen_20241011/Punto_E.sh 
+ls -l
+git add .
+git commit -m "ADD: Agregado el Punto E"
+git push
+git status
+history -a
+history
