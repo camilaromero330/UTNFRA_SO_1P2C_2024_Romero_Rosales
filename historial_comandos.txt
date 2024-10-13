@@ -433,3 +433,42 @@ git push
 git status
 history -a
 history
+cp ~/.bash_history historial_comandos.txt
+git status
+cat historial_comandos.txt 
+git add .
+git commit -m
+git commit -m "ADD: Agregado el historial de comandos"
+git push
+git status
+ls -l
+logout
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+git remote get-url origin
+curl -s ifconfig.me
+sudo grep $USER /etc/shadow | awk -F ':' '{print $2}'
+ls -l
+ls -l RTA_SCRIPT_Examen_20241011/
+cat RTA_SCRIPT_Examen_20241011/Punto_F.sh 
+ls -l
+./RTA_SCRIPT_Examen_20241011/Punto_F.sh 
+tree RTA_ARCHIVOS_Examen_20241011/ 
+cat RTA_ARCHIVOS_Examen_20241011/Filtro_Avanzado.txt 
+cat RTA_SCRIPT_Examen_20241011/Punto_F.sh 
+ls -l
+./RTA_SCRIPT_Examen_20241011/Punto_F.sh 
+cat RTA_ARCHIVOS_Examen_20241011/Filtro_Avanzado.txt
+tree RTA_ARCHIVOS_Examen_20241011/ 
+cat RTA_ARCHIVOS_Examen_20241011/Filtro_Avanzado.txt
+cat RTA_ARCHIVOS_Examen_20241011/Filtro_Basico.txt
+git add .
+git commit -m "ADD: Agregado el Punto F"
+git push
+git status
+ls -l
+history -a
+history
