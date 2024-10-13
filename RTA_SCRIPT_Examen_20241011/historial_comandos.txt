@@ -1,0 +1,402 @@
+pwd
+ls -l
+sudo fdisk -l
+ll
+cd repogit/
+ll
+cd ..
+ls -l
+ll repogit/
+ls -l .ssh/
+ssh-keygen -t ed25519
+ls -l .ssh/
+cat .ssh/[200~id_ed25519.pub
+cat .ssh/id_ed25519.pub
+pwd
+ls -l
+cd repogit/
+ls -l
+history
+pwd
+git clone git@github.com:camilaromero330/UTNFRA_SO_1P2C_2024_Romero_Rosales.git
+ll
+cat Vagrantfile 
+ls -l
+git clone https://github.com/upszot/UTN-FRA_SO_Examenes.git
+ll
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+history
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l RTA_SCRIPT_Examen_20241011
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241007/
+ls -l
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/
+pwd
+git status
+ls -l
+git add .
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+git status
+git add .
+git commit -m "ADD: Clonados los repositorios"
+git config --global user.email "camilaromero330@hotmail.com"
+git config --global user.name "Camila"
+git commit -m "ADD: Clonados los repositorios"
+git push
+history
+./UTN-FRA_SO_Examenes/202410/script_Precondicion.sh
+ls -l
+cd -
+ls -l
+cat Vagrantfile 
+logout
+ls -l
+ls -l repogit/
+pwd
+ls -l
+cd repogit/
+ls -l
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+logout
+ls -l
+ls -l repogit/
+git --version
+tree --version
+sudo apt update
+sudo apt install tree -y
+tree --version
+history
+logout
+ls -l
+ls -l repogit/
+ls -l repogit/UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+cat Punto_A.sh 
+cd-
+cd -
+ls -l
+cd -
+ls -l
+cd repogit/
+pwd
+cd /repogit
+cd --
+ls -l
+cd r
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+./RTA_SCRIPT_Examen_20241011/Punto_A.sh 
+tree
+ls -l
+cd -
+ls -l
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_ARCHIVOS_Examen_20241011/
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/Punto_A.sh 
+cat UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/Punto_A.sh 
+tree
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+tree
+ls -l RTA_SCRIPT_Examen_20241011/
+ls -l
+/RTA_SCRIPT_Examen_20241011/Punto_A.sh
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+./Punto_A.sh 
+tree
+cd --
+ls -l
+cd repogit/
+ls -l
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/
+tree
+ls -l
+cd UTN-FRA_SO_Examenes/
+tree
+cd -
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+./Punto_A.sh 
+cd -
+ls -l
+cd -
+cd --
+ls -l
+cd repogit/
+tree
+ls -l
+pwd
+cd /
+pwd
+ls -l
+cd Examenes-UTN/
+tree
+cd --
+ls -l
+cd repogit/
+ls -l
+cd UTN-FRA_SO_Examenes/
+ls -l
+cd -
+tree
+ls -l
+pwd
+cd UTN-FRA_SO_Examenes/
+TREE
+tree
+cd -
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+tree RTA_SCRIPT_Examen_20241011/
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+rm -r Examenes-UTN/
+ls -l
+vim Punto_A.sh 
+rm -r Examenes-UTN/
+ls -l
+./Punto_A.sh
+tree
+cd -
+tree
+pwd
+cd --
+pwd
+ls -l
+tree
+ls -l
+cd repogit/
+ls -l
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/
+tree
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/
+ls -l
+cat Punto_A.sh
+pwd
+cd --
+ls -l
+cd repogit/
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+chmod +x RTA_SCRIPT_Examen_20241011/*
+ls -l
+../RTA_SCRIPT_Examen_20241011
+bash Punto_A.sh
+ls -l
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+bash Punto_A.sh 
+tree
+cd --
+ls -l
+ls -l repogit/
+ls -l repogit/UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l repogit/UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/
+vim repogit/UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/Punto_A.sh
+ls /
+ls /Examenes-UTN/
+tree /
+ls /
+pwd
+ls -l
+ls /
+tree /Examenes-UTN/
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+cat Punto_A.sh 
+cd --
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+git status
+git add .
+git commit -m "ADD: Agregado el punto A"
+git push
+git status
+history
+history -a
+ls -l
+cp -i ~/.bash_history historial_comandos.txt
+ls -l
+cat historial_comandos.txt 
+git add .
+git commit -m "ADD: Agregado el historial de comandos"
+git push
+ls -l
+pwd
+cat /proc/meminfo | grep MemTotal
+sudo dmidecode -t chassis
+sudo dmidecode -t chassis | grep "Information Manufacturer"
+sudo dmidecode -t chassis
+sudo dmidecode -t chassis | awk '{print $1}'
+sudo dmidecode -t chassis | grep "Chassis Information Manufacturer" -i
+sudo dmidecode -t chassis
+sudo dmidecode -t chassis | grep "Manufacturer"
+sudo dmidecode -t chassis | awk '/Manufacturer/ {print}'
+sudo dmidecode -t chassis | awk '/Manufacturer/ {print}' 'Chassis'
+sudo dmidecode -t chassis | grep -E "Chassis Information|Manufacturer"
+history -a
+history
+logout
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+cat Punto_A.sh 
+logout
+ls -l
+cd repogit/
+ls -l
+logout 
+ls -l
+cd repogit/
+ls -l
+sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}
+
+ls -l
+logout
+ls -l
+cd repogit/
+ls -l
+sudo fdisk -l
+ls -l /
+ls -l /Examenes-UTN/
+ls -l
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/
+ls -l UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/Punto_B.sh 
+cat UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/Punto_B.sh 
+ls -l
+sudo fdisk -l | grep "10 GiB" | awk '{print $2}' | awk -F ':' '{print $1}'
+./UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/Punto_B.sh 
+fdisk -l
+sudo fdisk -l
+cat /etc/fstab
+df -h | grep /Examenes-UTN/alumno_1/parcial_1
+lsblk -f
+history -a
+history
+cp -i ~/.bash_history historial_comandos.txt
+ls -l
+cat historial_comandos.txt 
+cat UTNFRA_SO_1P2C_2024_Romero_Rosales/RTA_SCRIPT_Examen_20241011/Punto_B.sh 
+sudo fdisk -l 
+git status
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+git status
+git add .
+git commit -m "ADD: Agregado el Punto B"
+git push
+git status
+logout
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l /
+ls -l /Examenes-UTN
+tree /Examenes-UTN
+sudo cat /etc/shadow
+sudo cat /etc/group
+ls -l
+ls -l RTA_SCRIPT_Examen_20241011/
+cat RTA_SCRIPT_Examen_20241011/Punto_C.sh 
+ls -l
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+./Punto_C.sh 
+tree /Examenes-UTN
+tree /Examenes-UTN/alumno_1
+sudo tree /Examenes-UTN/alumno_1
+sudo tree /Examenes-UTN
+sudo cat /Examenes-UTN/alumno_1/validar.txt
+sudo cat /Examenes-UTN/alumno_2/validar.txt
+sudo cat /Examenes-UTN/alumno_3/validar.txt
+sudo cat /Examenes-UTN/profesores/validar.txt
+sudo cat /etc/shadow
+sudo cat /etc/group
+id p1c2_2024_A1 
+id p1c2_2024_A2
+id p1c2_2024_A3
+id p1c2_2024_P1
+ls -ld /Examenes-UTN/alumno_1
+ls -ld /Examenes-UTN/alumno_2
+ls -ld /Examenes-UTN/alumno_3
+ls -ld /Examenes-UTN/profesores
+sudo tree /Examenes-UTN
+ls -l
+cat Punto_C.sh 
+ls -l
+cd -
+ls -l
+git status
+git add .
+gir commit -m "ADD: Agregado el Punto C"
+git commit -m "ADD: Agregado el Punto C"
+git push
+git status
+history
+history -a
+history
+ls -l
+cp ~/.bash_history historial_comandos.txt
+cat historial_comandos.txt 
+git add .
+git commit -m "ADD: Agregado el historial de comandos"
+git push
+git status
+whoami
+logout
+ls -l
+cd repogit/
+ls -l
+cd UTNFRA_SO_1P2C_2024_Romero_Rosales/
+ls -l
+cd RTA_SCRIPT_Examen_20241011/
+ls -l
+cat Punto_D.sh 
+./Punto_D.sh 
+tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s'' -w 80 --column 4
+ls -l $HOME
+tree $HOME/Estructura_Asimetrica/
+tree $HOME/Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+tree $HOME/Estructura_Asimetrica --noreport | pr -T -s'' -w 80 --column 4
+tree Estructura_Asimetrica/ --noreport | pr -T -s'' -w 80 --column 4
+tree $HOME/Estructura_Asimetrica --noreport | pr -T -s'' -w 80 --column 4
+ls -l $HOME
+ls -l $HOME/Estrucutura_Asimetrica
+ls -l $HOME/Estrucutura_Asimetrica/
+ls -l $HOME/Estructura_Asimetrica
+tree $HOME/Estructura_Asimetrica
+cat Punto_D.sh 
+history
+git add .
+git commit -m "ADD: Agregado el Punto D"
+git push
+git status
+history -a
